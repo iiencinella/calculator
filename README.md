@@ -1,0 +1,1 @@
+Calculadora sencilla para entender un poco sobre el DOM y, de paso, aprendí cómo centrar componentes.
